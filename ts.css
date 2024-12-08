@@ -1,0 +1,21 @@
+.mmmm:hover{
+    color: #000;
+    transform: scaleX('-1');
+    border-radius: 10px;
+box-shadow: rgb(165, 245, 6);
+color: aqua;
+text-shadow: yellow;
+outline-style: double;}
+.mmmm
+{
+    filter: ();
+    text-align: center;
+    padding: 1opx 20px;
+    box-shadow: yellow;
+    
+}
+.hhh:hover{
+color: blueviolet;
+    text-shadow: rgb(161, 17, 161);
+
+}
